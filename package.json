@@ -1,0 +1,14 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "Simple command line Node.Js NoteApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthick",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^9.0.1"
+  }
+}
